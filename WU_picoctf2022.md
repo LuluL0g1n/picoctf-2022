@@ -96,6 +96,14 @@ for j in d:
 
 >Hint 2: Do the punctuation and the individual words help you make any substitutions?
 ## Cách giải
+> Không khác gì bài substitution0 :))
+
+>Flag: picoctf{fr3qu3ncy_4774ck5_4r3_c001_e57444ac}
+# substitution2
+## Đề bài
+![image](https://user-images.githubusercontent.com/97771705/158577399-76764906-9090-4674-a4f2-7005523bee22.png)
+[message (6).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8261541/message.6.txt)
+## Cách giải
 
 
 
