@@ -74,6 +74,14 @@ for j in d:
 ![image](https://user-images.githubusercontent.com/97771705/158569464-3ec25830-aa43-4cc8-8e2f-696cce2f9a7d.png)
 [message (3).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8261215/message.3.txt)
 ## Cách giải
+>Xài https://www.dcode.fr/rail-fence-cipher nhé :))
+
+>Flag: picoCTF{WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_EB4C7D74}
+# substitution0
+## Đề bài
+![image](https://user-images.githubusercontent.com/97771705/158572186-39a45ed0-62e7-4fd1-919c-d9849d7399a0.png)
+[message (4).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8261324/message.4.txt)
+## Cách giải
 
 
 
