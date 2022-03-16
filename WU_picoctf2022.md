@@ -82,7 +82,20 @@ for j in d:
 ![image](https://user-images.githubusercontent.com/97771705/158572186-39a45ed0-62e7-4fd1-919c-d9849d7399a0.png)
 [message (4).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8261324/message.4.txt)
 ## Cách giải
+>Sử dụng đồng thời https://math.dartmouth.edu/~awilson/tools/frequency_analysis.html và https://www.dcode.fr/frequency-analysis 
 
+>Bằng việc thử các chữ cái trong dòng cuối cùng, trước dấu '{' là 'picoctf', rồi trước đó là 'the flag is', dần dà mở hết toàn bộ các chữ cái.
+
+>Flag: picoctf{5ub5717u710n_3v0lu710n_7b755b1a}
+# substitution1
+# Đề bài
+![image](https://user-images.githubusercontent.com/97771705/158574609-82354374-cb2b-4250-9804-3606bcaf5ce8.png)
+[message (5).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8261402/message.5.txt)
+
+>Hint 1: Try a frequency attack
+
+>Hint 2: Do the punctuation and the individual words help you make any substitutions?
+## Cách giải
 
 
 
