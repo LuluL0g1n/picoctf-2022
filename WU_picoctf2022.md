@@ -119,6 +119,10 @@ for j in d:
 
 [message (7).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8262118/message.7.txt)
 ## Cách giải
+>Quy luật của bài này khá đơn giản: với mỗi cụm 3 kí tự, đảo kí tự theo công thức 1->2  2->3  3->1
+
+>Flag: picoctf{7R4N5P051N6_15_3XP3N51V3_5C82A0E0}
+# Vigenere
 
 
 
