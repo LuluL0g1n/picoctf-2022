@@ -123,7 +123,24 @@ for j in d:
 
 >Flag: picoctf{7R4N5P051N6_15_3XP3N51V3_5C82A0E0}
 # Vigenere
+## Đề bài
+![image](https://user-images.githubusercontent.com/97771705/158598982-acfc4a42-0d9b-4896-88c0-0895191066c7.png)
 
+[cipher.txt](https://github.com/LuluL0g1n/picoctf-2022/files/8262426/cipher.txt)
+## Cách giải
+> Chưa thấy câu nào dễ như này:)) Dùng mã Vigenere với key CYLAB ở đề bài
+
+>Flag: picoCTF{D0NT_US3_V1G3N3R3_C1PH3R_y23c13p5}
+# diffie-hellman
+## Đề bài
+![image](https://user-images.githubusercontent.com/97771705/158599971-c21108d9-0c35-4ddd-8aeb-b9fe68611618.png)
+
+[message (8).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8262461/message.8.txt)
+
+>Hint 1: Diffie-Hellman key exchange is a well known algorithm for generating keys, try looking up how the secret key is generated
+
+>Hint 2: For your Caesar shift amount, try forwards and backwards.
+## Cách giải
 
 
 
