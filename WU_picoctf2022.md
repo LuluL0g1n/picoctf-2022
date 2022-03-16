@@ -53,6 +53,7 @@ for j in d:
 # credstuff
 ## Đề bài
 ![image](https://user-images.githubusercontent.com/97771705/158558505-74bc0f61-fda4-457c-802c-683678bf713e.png)
+
 [leak.txt](https://github.com/LuluL0g1n/picoctf-2022/files/8260711/leak.txt)
 ## Cách giải
 >Đề yêu cầu tìm mật khẩu của người tên cultiris, và người dùng đầu tiên trong usernames.txt ứng với mật khẩu đầu tiên trong passwords.txt
@@ -80,6 +81,7 @@ for j in d:
 # substitution0
 ## Đề bài
 ![image](https://user-images.githubusercontent.com/97771705/158572186-39a45ed0-62e7-4fd1-919c-d9849d7399a0.png)
+
 [message (4).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8261324/message.4.txt)
 ## Cách giải
 >Sử dụng đồng thời https://math.dartmouth.edu/~awilson/tools/frequency_analysis.html và https://www.dcode.fr/frequency-analysis 
@@ -90,6 +92,7 @@ for j in d:
 # substitution1
 # Đề bài
 ![image](https://user-images.githubusercontent.com/97771705/158574609-82354374-cb2b-4250-9804-3606bcaf5ce8.png)
+
 [message (5).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8261402/message.5.txt)
 
 >Hint 1: Try a frequency attack
@@ -102,7 +105,19 @@ for j in d:
 # substitution2
 ## Đề bài
 ![image](https://user-images.githubusercontent.com/97771705/158577399-76764906-9090-4674-a4f2-7005523bee22.png)
+
 [message (6).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8261541/message.6.txt)
+## Cách giải
+>Bài này tìm khó hơn 2 bài trước xíu :))
+
+![image](https://user-images.githubusercontent.com/97771705/158590750-f74b7e52-73a8-41ab-b28d-b2acdcb1b13b.png)
+
+>Flag: picoctf{n6r4m_4n41y515_15_73d10u5_6cdaea76}
+# transposition-trial
+## Đề bài
+![image](https://user-images.githubusercontent.com/97771705/158590933-409e0065-2cfd-4790-8af0-58eca5c786b9.png)
+
+[message (7).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8262118/message.7.txt)
 ## Cách giải
 
 
