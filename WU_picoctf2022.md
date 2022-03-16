@@ -66,5 +66,28 @@ for j in d:
 ## Đề bài
 ![image](https://user-images.githubusercontent.com/97771705/158562862-69659fda-1a8c-4184-b51a-27508ef6ea82.png)
 ## Cách giải
+>Mình dùng Audacity, có thể tham khảo thêm ở video này https://www.youtube.com/watch?v=Tqxqh2hej9o
+
+>Flag: picoCTF{wh47_h47h_90d_w20u9h7}
+# rail-fence
+## Đề bài
+![image](https://user-images.githubusercontent.com/97771705/158569464-3ec25830-aa43-4cc8-8e2f-696cce2f9a7d.png)
+[message (3).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8261215/message.3.txt)
+## Cách giải
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
