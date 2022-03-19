@@ -141,7 +141,15 @@ Chưa thấy câu nào dễ như này:)) Dùng mã Vigenere với key CYLAB ở 
 
 >Hint 2: For your Caesar shift amount, try forwards and backwards.
 ## Cách giải
+https://vi.wikipedia.org/wiki/Trao_%C4%91%E1%BB%95i_kh%C3%B3a_Diffie-Hellman
 
+Đầu tiên, ta tính toán A = g^7 mod p và B = g^3 mod p. A = B = 8. Đây là bước tìm public key
+
+Sau đó tìm secret key s = A^3 mod 13 hoặc B^7 mod 13. s = 5
+
+Đưa lên https://www.dcode.fr/caesar-cipher, yêu cầu alphabet = 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+>Flag: picoCTF{C4354R_C1PH3R_15_4_817_0U7D473D_2DBF03F7}
 # Very Smooth
 ## Đề bài
 ![image](https://user-images.githubusercontent.com/97771705/158607102-7bb2d3cd-b6f7-4663-853e-ede2c483ae9c.png)
