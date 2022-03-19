@@ -73,6 +73,7 @@ Mình dùng Audacity, có thể tham khảo thêm ở video này https://www.you
 # rail-fence
 ## Đề bài
 ![image](https://user-images.githubusercontent.com/97771705/158569464-3ec25830-aa43-4cc8-8e2f-696cce2f9a7d.png)
+
 [message (3).txt](https://github.com/LuluL0g1n/picoctf-2022/files/8261215/message.3.txt)
 ## Cách giải
 Xài https://www.dcode.fr/rail-fence-cipher nhé :))
