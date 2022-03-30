@@ -251,6 +251,12 @@ print(f'c = {c.digits(16)}')
 
 ```
 ## Cách giải
+Hint của bài có đề cập đến Pollard, chúng ta sẽ áp dụng định lý Pollard's p-1
+
+Định lý này dùng để phân tích số n ra các thừa số nguyên tố, với n nhỏ vừa đủ.
+
+Cơ sở của định lý: Theo định lý nhỏ của Fermat: $ a^(p-1) = 1 mod p $. Giả sử n = p * q; L = K(p-1) với K là 1 số nguyên dương.
+
 
 # Sequences
 ## Đề bài
