@@ -578,5 +578,5 @@ Kết quả ra 38251710328773353863765792553472569533309
 >Flag: picoCTF{6aae5b6c}
 
 P/S: Mình thực sự không biết cách dùng thuật toán Polig-Hellman, mặc dù hint có đề cập :))
-
+Dòng cuối mình xin đặc biệt cảm ơn bạn ntq a.k.a quynhcrypto đã giúp đỡ trong 2 bài sequences và NSA backdoor khi mình bị stuck mãi không ra :))
 
